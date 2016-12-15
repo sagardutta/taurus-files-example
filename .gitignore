@@ -2,7 +2,7 @@
 *.class
 *.log
 
-jars/*
+
 # sbt specific
 .cache
 .history
