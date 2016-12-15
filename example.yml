@@ -1,0 +1,10 @@
+---
+execution:
+- executor: gatling
+  scenario: sample
+  files:
+  - example-deps.jar
+scenarios:
+  sample:
+    script: example.jar
+    simulation: ComputerWorld
