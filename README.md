@@ -4,7 +4,7 @@ Sample SBT project which simulates the problem with taurus files directive while
 # How to run
 * sbt "assemblyPackageDependency" gives the jar with all the dependencies which in this case is lift-json jar
 * sbt "gatling:package" gives the jar with test classes
-* example.yml is the taurus config file
+* jars/example.yml is the taurus config file
 
 # See it running from docker
 
